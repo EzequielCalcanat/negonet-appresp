@@ -1,0 +1,33 @@
+.bar{
+    background-color: #009e8e;
+}
+.containerbg{
+    background-image: url('../assets/imgs/medico.webp');
+    background-size: 40% auto;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 450px;
+}
+.containertext{
+    background-color: #00c5b1;
+    height: 450px;
+}
+.containerwhite{
+    background-color: #ffffff;
+    height: 450px;
+}
+.containercolor{
+    background-color: #930ACC;
+    height: 450px;
+}
+.imgservicio{
+    width: 450px;
+    margin: 30px;
+}
+.font{
+    font-family: 'Oswald', sans-serif;
+}
+.formbusqueda{
+    margin-top: 80px;
+}
